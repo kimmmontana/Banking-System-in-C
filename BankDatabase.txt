@@ -1,0 +1,15 @@
+-----------------------STARBANK DATABASE------------------------------
+
+	CARD NUMBER	NAME			BALANCE
+
+	20221		Leni Robredo		P 25000.00
+
+	20222		Isko Moreno		P 25000.00
+
+	20223		Manny Pacquiao		P 25000.00
+
+	20224		Ping Lacson		P 25000.00
+
+	20225		Bongbong Marcos		P 25000.00
+
+----------------------------------------------------------------------
